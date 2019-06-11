@@ -3,5 +3,5 @@ This project tells information about the categorized information of Holiday Plac
 
 
 <br>
-<img height="700" src="https://github.com/kuldeep123kd/Holiday/blob/master/Untitled.png" />
+<img src="https://github.com/kuldeep123kd/Holiday/blob/master/Untitled.png" />
 </br>
